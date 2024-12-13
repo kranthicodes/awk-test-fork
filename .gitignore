@@ -25,3 +25,5 @@ dist-ssr
 
 # Manually packed packages
 *.tgz
+
+bins
